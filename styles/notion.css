@@ -12,6 +12,7 @@
   --notion-header-height: 54px;
   -webkit-font-smoothing: auto;
   --select-color-0: #fbc41e;
+  --notion-gray_background_co: #1e1f20;
 }
 
 .notion-page {
@@ -153,8 +154,8 @@
 
 .notion-callout {
   margin: 0.75em 0;
-  border: none;
-  border-radius: 10px;
+  border-radius: 15px;
+  border: 1px #2f2f2f solid;
 }
 
 .notion-hr {
