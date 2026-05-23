@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Давид Шекунц – tech lead (go || node.js || python)',
-  domain: 'davids.sh',
+  domain: 'about-me.davidshekunts.ru',
   author: 'Давид Шекунц',
 
   // open graph metadata (optional)

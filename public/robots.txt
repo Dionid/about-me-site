@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://davids.sh/sitemap.xml
+Sitemap: https://about-me.davidshekunts.ru/sitemap.xml
